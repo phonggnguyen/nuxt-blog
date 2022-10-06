@@ -1,0 +1,1 @@
+import{y as t,o,l as _,z as n}from"./entry.0f755084.js";const s={},c={class:"mb-5 bg-gradient-to-b from-emerald-500 to-teal-600 inline-block font-semibold text-lg"};function l(e,r){return o(),_("h2",c,[n(e.$slots,"default",{},void 0,!0)])}const d=t(s,[["render",l],["__scopeId","data-v-5955d667"]]);export{d as _};
