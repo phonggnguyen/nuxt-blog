@@ -1,6 +1,6 @@
 export const SiteName = 'AnyBlog'
 export const SiteUrl = 'nuxt-blog-azure.vercel.app'
-export const SiteImage = '/cover.png'
+export const SiteImage = ''
 export const SiteLogo = '/logo.webp'
 export const SiteLanguage = 'en-AU'
 export const SiteTagLine = 'Open Source Developer'

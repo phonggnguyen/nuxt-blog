@@ -1,1 +1,0 @@
-import{y as o,o as t,l as c,z as s}from"./entry.0f755084.js";const a={},_={class:"code-block transform relative my-12 !py-0 max-h-700px overflow-y-auto"};function n(e,r){return t(),c("div",_,[s(e.$slots,"default",{},void 0,!0)])}const l=o(a,[["render",n],["__scopeId","data-v-c4035ab8"]]);export{l as default};

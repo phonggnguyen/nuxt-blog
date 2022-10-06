@@ -1,1 +1,0 @@
-import{y as o,o as s,l as r,z as t}from"./entry.0f755084.js";const _={},n={class:"prose md:prose-lg prose-gray dark:prose-invert mb-8 md:mb-12"};function c(e,a){return s(),r("div",n,[t(e.$slots,"default")])}const d=o(_,[["render",c]]);export{d as default};

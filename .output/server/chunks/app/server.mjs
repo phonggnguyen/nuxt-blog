@@ -594,46 +594,46 @@ function useHead(meta2) {
   useNuxtApp()._useHead(meta2);
 }
 const components = {
-  Breadcrumbs: defineAsyncComponent(() => import('./_nuxt/Breadcrumbs.1630eadf.mjs').then((c) => c.default || c)),
-  CodeBlock: defineAsyncComponent(() => import('./_nuxt/CodeBlock.62d22384.mjs').then((c) => c.default || c)),
-  Image: defineAsyncComponent(() => import('./_nuxt/Image.544dd2b2.mjs').then((c) => c.default || c)),
-  List: defineAsyncComponent(() => import('./_nuxt/List.00d821bb.mjs').then((c) => c.default || c)),
-  PostList: defineAsyncComponent(() => import('./_nuxt/PostList.cb0f3f6a.mjs').then((c) => c.default || c)),
-  ProjectList: defineAsyncComponent(() => import('./_nuxt/ProjectList.c03362a5.mjs').then((c) => c.default || c)),
-  Prose: defineAsyncComponent(() => import('./_nuxt/Prose.3b01a91f.mjs').then((c) => c.default || c)),
-  Tip: defineAsyncComponent(() => import('./_nuxt/Tip.2fd789f0.mjs').then((c) => c.default || c)),
-  WindiIcon: defineAsyncComponent(() => import('./_nuxt/WindiIcon.c96381a8.mjs').then((c) => c.default || c)),
-  ContentDoc: defineAsyncComponent(() => import('./_nuxt/ContentDoc.275f24fb.mjs').then((c) => c.default || c)),
-  ContentList: defineAsyncComponent(() => import('./_nuxt/ContentList.40628fce.mjs').then((c) => c.default || c)),
-  ContentNavigation: defineAsyncComponent(() => import('./_nuxt/ContentNavigation.c52a1fd2.mjs').then((c) => c.default || c)),
-  ContentQuery: defineAsyncComponent(() => import('./_nuxt/ContentQuery.0bfd106b.mjs').then((c) => c.default || c)),
-  ContentRenderer: defineAsyncComponent(() => import('./_nuxt/ContentRenderer.db5b5b9b.mjs').then((c) => c.default || c)),
-  Markdown: defineAsyncComponent(() => import('./_nuxt/Markdown.9a5e26d7.mjs').then((c) => c.default || c)),
-  MarkdownRenderer: defineAsyncComponent(() => import('./_nuxt/MarkdownRenderer.5d536282.mjs').then((c) => c.default || c)),
-  ProseA: defineAsyncComponent(() => import('./_nuxt/ProseA.2c798e88.mjs').then((c) => c.default || c)),
-  ProseBlockquote: defineAsyncComponent(() => import('./_nuxt/ProseBlockquote.7bffc1c5.mjs').then((c) => c.default || c)),
-  ProseCode: defineAsyncComponent(() => import('./_nuxt/ProseCode.a8b25332.mjs').then((c) => c.default || c)),
-  ProseCodeInline: defineAsyncComponent(() => import('./_nuxt/ProseCodeInline.11fab5cd.mjs').then((c) => c.default || c)),
-  ProseEm: defineAsyncComponent(() => import('./_nuxt/ProseEm.3c1afd96.mjs').then((c) => c.default || c)),
-  ProseH1: defineAsyncComponent(() => import('./_nuxt/ProseH1.f46c294e.mjs').then((c) => c.default || c)),
-  ProseH2: defineAsyncComponent(() => import('./_nuxt/ProseH2.eb428fec.mjs').then((c) => c.default || c)),
-  ProseH3: defineAsyncComponent(() => import('./_nuxt/ProseH3.2dd85124.mjs').then((c) => c.default || c)),
-  ProseH4: defineAsyncComponent(() => import('./_nuxt/ProseH4.b129df17.mjs').then((c) => c.default || c)),
-  ProseH5: defineAsyncComponent(() => import('./_nuxt/ProseH5.481336f9.mjs').then((c) => c.default || c)),
-  ProseH6: defineAsyncComponent(() => import('./_nuxt/ProseH6.1535acfc.mjs').then((c) => c.default || c)),
-  ProseHr: defineAsyncComponent(() => import('./_nuxt/ProseHr.207d6d4e.mjs').then((c) => c.default || c)),
+  Breadcrumbs: defineAsyncComponent(() => import('./_nuxt/Breadcrumbs.025d63b1.mjs').then((c) => c.default || c)),
+  CodeBlock: defineAsyncComponent(() => import('./_nuxt/CodeBlock.ad67690e.mjs').then((c) => c.default || c)),
+  Image: defineAsyncComponent(() => import('./_nuxt/Image.444da889.mjs').then((c) => c.default || c)),
+  List: defineAsyncComponent(() => import('./_nuxt/List.c7aaa517.mjs').then((c) => c.default || c)),
+  PostList: defineAsyncComponent(() => import('./_nuxt/PostList.03790394.mjs').then((c) => c.default || c)),
+  ProjectList: defineAsyncComponent(() => import('./_nuxt/ProjectList.4552de87.mjs').then((c) => c.default || c)),
+  Prose: defineAsyncComponent(() => import('./_nuxt/Prose.800662bc.mjs').then((c) => c.default || c)),
+  Tip: defineAsyncComponent(() => import('./_nuxt/Tip.9255e411.mjs').then((c) => c.default || c)),
+  WindiIcon: defineAsyncComponent(() => import('./_nuxt/WindiIcon.155b1eb0.mjs').then((c) => c.default || c)),
+  ContentDoc: defineAsyncComponent(() => import('./_nuxt/ContentDoc.f9995285.mjs').then((c) => c.default || c)),
+  ContentList: defineAsyncComponent(() => import('./_nuxt/ContentList.121d8a58.mjs').then((c) => c.default || c)),
+  ContentNavigation: defineAsyncComponent(() => import('./_nuxt/ContentNavigation.f6aeaf93.mjs').then((c) => c.default || c)),
+  ContentQuery: defineAsyncComponent(() => import('./_nuxt/ContentQuery.953e7729.mjs').then((c) => c.default || c)),
+  ContentRenderer: defineAsyncComponent(() => import('./_nuxt/ContentRenderer.ace07781.mjs').then((c) => c.default || c)),
+  Markdown: defineAsyncComponent(() => import('./_nuxt/Markdown.a813564e.mjs').then((c) => c.default || c)),
+  MarkdownRenderer: defineAsyncComponent(() => import('./_nuxt/MarkdownRenderer.2ef49b36.mjs').then((c) => c.default || c)),
+  ProseA: defineAsyncComponent(() => import('./_nuxt/ProseA.5a629bcf.mjs').then((c) => c.default || c)),
+  ProseBlockquote: defineAsyncComponent(() => import('./_nuxt/ProseBlockquote.c28f6167.mjs').then((c) => c.default || c)),
+  ProseCode: defineAsyncComponent(() => import('./_nuxt/ProseCode.ef1429b0.mjs').then((c) => c.default || c)),
+  ProseCodeInline: defineAsyncComponent(() => import('./_nuxt/ProseCodeInline.8b628b6e.mjs').then((c) => c.default || c)),
+  ProseEm: defineAsyncComponent(() => import('./_nuxt/ProseEm.09afa35d.mjs').then((c) => c.default || c)),
+  ProseH1: defineAsyncComponent(() => import('./_nuxt/ProseH1.ccc2ea37.mjs').then((c) => c.default || c)),
+  ProseH2: defineAsyncComponent(() => import('./_nuxt/ProseH2.21cda22a.mjs').then((c) => c.default || c)),
+  ProseH3: defineAsyncComponent(() => import('./_nuxt/ProseH3.2df6ddb9.mjs').then((c) => c.default || c)),
+  ProseH4: defineAsyncComponent(() => import('./_nuxt/ProseH4.dd426550.mjs').then((c) => c.default || c)),
+  ProseH5: defineAsyncComponent(() => import('./_nuxt/ProseH5.e12f1e66.mjs').then((c) => c.default || c)),
+  ProseH6: defineAsyncComponent(() => import('./_nuxt/ProseH6.6196c3a9.mjs').then((c) => c.default || c)),
+  ProseHr: defineAsyncComponent(() => import('./_nuxt/ProseHr.bbee5155.mjs').then((c) => c.default || c)),
   ProseImg: defineAsyncComponent(() => import('./_nuxt/ProseImg.610bae40.mjs').then((c) => c.default || c)),
-  ProseLi: defineAsyncComponent(() => import('./_nuxt/ProseLi.2935d876.mjs').then((c) => c.default || c)),
-  ProseOl: defineAsyncComponent(() => import('./_nuxt/ProseOl.ce21eb5c.mjs').then((c) => c.default || c)),
-  ProseP: defineAsyncComponent(() => import('./_nuxt/ProseP.4fde5aca.mjs').then((c) => c.default || c)),
-  ProseStrong: defineAsyncComponent(() => import('./_nuxt/ProseStrong.a15b8263.mjs').then((c) => c.default || c)),
-  ProseTable: defineAsyncComponent(() => import('./_nuxt/ProseTable.548dec36.mjs').then((c) => c.default || c)),
-  ProseTbody: defineAsyncComponent(() => import('./_nuxt/ProseTbody.a8bbc247.mjs').then((c) => c.default || c)),
-  ProseTd: defineAsyncComponent(() => import('./_nuxt/ProseTd.10a9ea00.mjs').then((c) => c.default || c)),
-  ProseTh: defineAsyncComponent(() => import('./_nuxt/ProseTh.80491611.mjs').then((c) => c.default || c)),
-  ProseThead: defineAsyncComponent(() => import('./_nuxt/ProseThead.7c262cec.mjs').then((c) => c.default || c)),
-  ProseTr: defineAsyncComponent(() => import('./_nuxt/ProseTr.a53793e4.mjs').then((c) => c.default || c)),
-  ProseUl: defineAsyncComponent(() => import('./_nuxt/ProseUl.0e75691a.mjs').then((c) => c.default || c))
+  ProseLi: defineAsyncComponent(() => import('./_nuxt/ProseLi.8e6b2341.mjs').then((c) => c.default || c)),
+  ProseOl: defineAsyncComponent(() => import('./_nuxt/ProseOl.aec2bcb8.mjs').then((c) => c.default || c)),
+  ProseP: defineAsyncComponent(() => import('./_nuxt/ProseP.8364b822.mjs').then((c) => c.default || c)),
+  ProseStrong: defineAsyncComponent(() => import('./_nuxt/ProseStrong.249d17d6.mjs').then((c) => c.default || c)),
+  ProseTable: defineAsyncComponent(() => import('./_nuxt/ProseTable.decd73e5.mjs').then((c) => c.default || c)),
+  ProseTbody: defineAsyncComponent(() => import('./_nuxt/ProseTbody.e437ad23.mjs').then((c) => c.default || c)),
+  ProseTd: defineAsyncComponent(() => import('./_nuxt/ProseTd.c44a914d.mjs').then((c) => c.default || c)),
+  ProseTh: defineAsyncComponent(() => import('./_nuxt/ProseTh.b7a1bed2.mjs').then((c) => c.default || c)),
+  ProseThead: defineAsyncComponent(() => import('./_nuxt/ProseThead.f9e1779c.mjs').then((c) => c.default || c)),
+  ProseTr: defineAsyncComponent(() => import('./_nuxt/ProseTr.07e2461c.mjs').then((c) => c.default || c)),
+  ProseUl: defineAsyncComponent(() => import('./_nuxt/ProseUl.0d8a8ee8.mjs').then((c) => c.default || c))
 };
 const _nuxt_components_plugin_mjs_KR1HBZs4kY = defineNuxtPlugin((nuxtApp) => {
   for (const name in components) {
@@ -1456,7 +1456,7 @@ const Components = /* @__PURE__ */ Object.freeze(/* @__PURE__ */ Object.definePr
   Html,
   Body
 }, Symbol.toStringTag, { value: "Module" }));
-const appHead = { "meta": [{ "http-equiv": "accept-ch", "content": "DPR" }], "link": [{ "rel": "apple-touch-icon", "sizes": "180x180", "href": "/apple-touch-icon.png" }, { "rel": "icon", "type": "image/png", "sizes": "32x32", "href": "/favicon-32x32.png" }, { "rel": "icon", "type": "image/png", "sizes": "16x16", "href": "/favicon-16x16.png" }], "style": [], "script": [], "noscript": [], "charset": "utf-8", "viewport": "width=device-width, initial-scale=1" };
+const appHead = { "meta": [{ "http-equiv": "accept-ch", "content": "DPR" }], "link": [], "style": [], "script": [], "noscript": [], "charset": "utf-8", "viewport": "width=device-width, initial-scale=1" };
 const appPageTransition = { "name": "page", "mode": "out-in" };
 const appKeepalive = false;
 const metaMixin = {
@@ -1710,7 +1710,7 @@ function queryContent(query, ...pathParts) {
 }
 const SiteName = "AnyBlog";
 const SiteUrl = "nuxt-blog-azure.vercel.app";
-const SiteImage = "/cover.png";
+const SiteImage = "";
 const SiteLogo = "/logo.webp";
 const SiteLanguage = "en-AU";
 const SiteDescription = "";
@@ -1783,7 +1783,7 @@ const _routes = [
     children: [],
     meta,
     alias: [],
-    component: () => import('./_nuxt/_...slug_.6047544b.mjs').then((m) => m.default || m)
+    component: () => import('./_nuxt/_...slug_.b2d4d1ab.mjs').then((m) => m.default || m)
   }
 ];
 const routerOptions0 = {
@@ -2407,7 +2407,7 @@ const _sfc_main$6 = {
   __name: "nuxt-root",
   __ssrInlineRender: true,
   setup(__props) {
-    const ErrorComponent = defineAsyncComponent(() => import('./_nuxt/error-component.b7a96c6e.mjs').then((r) => r.default || r));
+    const ErrorComponent = defineAsyncComponent(() => import('./_nuxt/error-component.d6d0f8fa.mjs').then((r) => r.default || r));
     const nuxtApp = useNuxtApp();
     provide("_route", useRoute());
     nuxtApp.hooks.callHookWith((hooks) => hooks.map((hook) => hook()), "vue:setup");

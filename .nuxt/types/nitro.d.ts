@@ -7,7 +7,6 @@ declare module 'nitropack' {
     '/feed.json': Awaited<ReturnType<typeof import('../../server/routes/feed.json').default>>
     '/feed.atom': Awaited<ReturnType<typeof import('../../server/routes/feed.atom').default>>
     '/__nuxt_error': Awaited<ReturnType<typeof import('../../node_modules/.pnpm/nuxt@3.0.0-rc.11_ytqihlhqkzccfn7ye2a3kphpxm/node_modules/nuxt/dist/core/runtime/nitro/renderer').default>>
-    '/_ipx/**': Awaited<ReturnType<typeof import('../../node_modules/.pnpm/@nuxt+image-edge@1.0.0-27719579.87dcdf2/node_modules/@nuxt/image-edge/dist/runtime/ipx').default>>
     '/api/_content/query/:qid': Awaited<ReturnType<typeof import('../../node_modules/.pnpm/@nuxt+content@2.0.1/node_modules/@nuxt/content/dist/runtime/server/api/query').default>>
     '/api/_content/query': Awaited<ReturnType<typeof import('../../node_modules/.pnpm/@nuxt+content@2.0.1/node_modules/@nuxt/content/dist/runtime/server/api/query').default>>
     '/api/_content/cache': Awaited<ReturnType<typeof import('../../node_modules/.pnpm/@nuxt+content@2.0.1/node_modules/@nuxt/content/dist/runtime/server/api/cache').default>>
